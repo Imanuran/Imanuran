@@ -15,7 +15,7 @@ If you’re tackling quality challenges at the intersection of automation and AI
 
 ## Recent Projects:
 
-- **Multimodal AI Platform (EY Internship):** Automated BRD generation from Teams videos using FastAPI, Azure STT, Tesseract OCR, React UI, and RAG-based semantic search.
+- **Multimodal AI Platform:** Automated BRD generation from Teams videos using FastAPI, Azure STT, Tesseract OCR, React UI, and RAG-based semantic search.
 - **Disfluency-Aware Code-Mixed ASR:** Built BEHE-CMDisfl synthetic corpus, fine-tuned Whisper with LoRA, and achieved 17.39% WER on Bengali-English/Hindi-English disfluent speech.
 
 ## Highlights:
