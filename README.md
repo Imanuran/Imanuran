@@ -26,6 +26,13 @@ If you’re tackling quality challenges at the intersection of automation and AI
 
 ## Publications:
 
+#### Optimizing Lexicon Design for Micro-Resource Code-Mixed Disfluent Speech Recognition
+_IEEE · Jul 22, 2026_
+
+This paper tackles the challenge of automatic speech recognition (ASR) for low‑resource, disfluent Bengali‑English code‑mixed speech. Using the Kaldi toolkit, the authors establish a reproducible GMM‑HMM baseline that explicitly models disfluencies (like filled pauses) to preserve meaning for downstream tasks. To compensate for the lack of real acoustic data, they generate a 1.3‑hour synthetic corpus via LLM and Indic Parler TTS.
+
+Link: https://ieeexplore.ieee.org/document/11608934
+
 #### ICon: How Can We Intelligently Predict TCP Congestion ? 
 _IEEE · Nov 3, 2021_
 
