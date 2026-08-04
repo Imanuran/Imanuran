@@ -1,7 +1,7 @@
 # About me
 
 Hi, I’m Anuran — AI enthusiast and ex Senior Software Analyst.
-I specialize in automation frameworks, CI/CD, and software quality engineering, and I’m actively advancing research in AI speech technologies and disfluency-aware ASR for low-resource languages.
+I specialize in automation frameworks, CI/CD, and software quality engineering, and I’m actively advancing research in AI speech technologies and disfluency-aware ASR for low-resource languages. Also I'm building upskilling projects on LLMs, RAGs, Gen AI etc. for continuous learning and development.
 
 If you’re tackling quality challenges at the intersection of automation and AI, I’m open to collaboration, consulting, and roles that push testing toward predictive, scalable solutions. Let’s connect to explore how smarter testing can accelerate your delivery.
 
